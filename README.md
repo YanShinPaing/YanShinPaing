@@ -47,7 +47,7 @@
 <a href="https://www.linkedin.com/in/yan-shin-paing-520b46244/" target="_blank">
   <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="yanshinpg.2021@gmail.com">
+<a href="">
   <img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
